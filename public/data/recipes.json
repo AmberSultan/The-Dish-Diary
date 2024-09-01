@@ -1,0 +1,189 @@
+[
+    {
+        "id": "1",
+        "title": "Classic Spaghetti Carbonara",
+        "description": "A traditional Italian pasta dish made with eggs, cheese, pancetta, and pepper.",
+        "images": [
+          "https://images.unsplash.com/photo-1675101298938-1b15fc61c603?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fHNwYWdoZXR0aSUyMGJvbG9nbmVzZXxlbnwwfHwwfHx8MA%3D%3D"
+        ],
+        "ingredients": [
+          "200g spaghetti",
+          "100g pancetta",
+          "2 large eggs",
+          "50g pecorino cheese",
+          "50g parmesan cheese",
+          "2 cloves garlic",
+          "Salt and black pepper to taste"
+        ]
+      },
+      {
+        "id": "2",
+        "title": "Vegetarian Chili",
+        "description": "A hearty and spicy chili made with a variety of beans and vegetables, perfect for a meatless meal.",
+        "images": [
+          "https://images.unsplash.com/photo-1659603606213-cb19636f9f34?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fFZlZ2V0YXJpYW4lMjBDaGlsaXxlbnwwfHwwfHx8MA%3D%3D"
+        ],
+        "ingredients": [
+          "1 can kidney beans",
+          "1 can black beans",
+          "1 can corn",
+          "1 bell pepper",
+          "1 onion",
+          "2 cloves garlic",
+          "1 can diced tomatoes",
+          "2 tablespoons chili powder",
+          "1 teaspoon cumin",
+          "Salt and pepper to taste"
+        ]
+      },
+      {
+        "id": "3",
+        "title": "Chicken Teriyaki",
+        "description": "A sweet and savory chicken dish with a classic teriyaki sauce, served with steamed rice.",
+        "images": [
+          "https://images.unsplash.com/photo-1516684465974-78661ba8165d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8VGVyaXlha2l8ZW58MHx8MHx8fDA%3D"
+        ],
+        "ingredients": [
+          "500g chicken breast",
+          "1/4 cup soy sauce",
+          "1/4 cup mirin",
+          "2 tablespoons brown sugar",
+          "1 tablespoon rice vinegar",
+          "2 cloves garlic",
+          "1 teaspoon grated ginger",
+          "2 green onions",
+          "Sesame seeds for garnish"
+        ]
+      },
+      {
+        "id": "4",
+        "title": "Chocolate Chip Cookies",
+        "description": "Classic chocolate chip cookies with a crispy edge and a soft, chewy center.",
+        "images": [
+          "https://images.unsplash.com/photo-1508737601172-f5398fa27b85?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fGNob2NvbGF0ZSUyMGNvb2tpZXxlbnwwfHwwfHx8MA%3D%3D"
+        ],
+        "ingredients": [
+          "1 cup butter",
+          "1 cup granulated sugar",
+          "1 cup packed brown sugar",
+          "2 large eggs",
+          "2 teaspoons vanilla extract",
+          "3 cups all-purpose flour",
+          "1 teaspoon baking soda",
+          "1/2 teaspoon baking powder",
+          "1/2 teaspoon salt",
+          "2 cups chocolate chips"
+        ]
+      },
+      {
+        "id": "5",
+        "title": "Caesar Salad",
+        "description": "A classic Caesar salad with crispy romaine lettuce, croutons, and a tangy Caesar dressing.",
+        "images": [
+          "https://images.unsplash.com/photo-1567121938596-6d9d015d348b?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        ],
+        "ingredients": [
+          "1 head romaine lettuce",
+          "1 cup croutons",
+          "1/2 cup grated Parmesan cheese",
+          "1/4 cup Caesar dressing",
+          "2 cloves garlic",
+          "1 tablespoon lemon juice",
+          "Salt and black pepper to taste"
+        ]
+      },
+      {
+        "id": "6",
+        "title": "Greek Salad",
+        "description": "A refreshing Greek salad with cucumbers, tomatoes, olives, and feta cheese, dressed with olive oil and lemon.",
+        "images": [
+          "https://images.unsplash.com/photo-1638612833646-34eecc16f3f1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fEdyZWVrJTIwU2FsYWR8ZW58MHx8MHx8fDA%3D"
+        ],
+        "ingredients": [
+          "1 cucumber",
+          "2 tomatoes",
+          "1/2 red onion",
+          "1/2 cup Kalamata olives",
+          "100g feta cheese",
+          "2 tablespoons olive oil",
+          "1 tablespoon lemon juice",
+          "1 teaspoon dried oregano",
+          "Salt and black pepper to taste"
+        ]
+      },
+      {
+        "id": "7",
+        "title": "Beef Stroganoff",
+        "description": "Tender strips of beef cooked in a creamy mushroom sauce, served over egg noodles.",
+        "images": [
+          "https://images.unsplash.com/photo-1644592219048-5c070fd3c91c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8QmVlZiUyMFN0cm9nYW5vZmZ8ZW58MHx8MHx8fDA%3D"
+        ],
+        "ingredients": [
+          "500g beef sirloin",
+          "1 onion",
+          "2 cloves garlic",
+          "200g mushrooms",
+          "1 cup beef broth",
+          "1 cup sour cream",
+          "2 tablespoons flour",
+          "2 tablespoons butter",
+          "Salt and black pepper to taste",
+          "Egg noodles for serving"
+        ]
+      },
+      {
+        "id": "8",
+        "title": "Pancakes",
+        "description": "Fluffy and light pancakes that are perfect for breakfast or brunch.",
+        "images": [
+          "https://images.unsplash.com/photo-1497445702960-c21c96af4c68?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8UGFuY2FrZXN8ZW58MHx8MHx8fDA%3D"
+        ],
+        "ingredients": [
+          "1 1/2 cups all-purpose flour",
+          "2 tablespoons sugar",
+          "1 tablespoon baking powder",
+          "1/2 teaspoon salt",
+          "1 1/4 cups milk",
+          "1 egg",
+          "3 tablespoons melted butter",
+          "1 teaspoon vanilla extract"
+        ]
+      },
+      {
+        "id": "9",
+        "title": "Lemon Bars",
+        "description": "Tangy lemon bars with a buttery shortbread crust and a sweet lemon filling.",
+        "images": [
+          "https://images.unsplash.com/photo-1530077561647-4c376cd0ee7d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8TGVtb24lMjBCYXJ8ZW58MHx8MHx8fDA%3D"
+        ],
+        "ingredients": [
+          "1 cup all-purpose flour",
+          "1/4 cup granulated sugar",
+          "1/2 cup butter",
+          "2 large eggs",
+          "1 cup granulated sugar",
+          "1/4 cup lemon juice",
+          "2 tablespoons all-purpose flour",
+          "Powdered sugar for dusting"
+        ]
+      },
+    {
+        "id": "10",
+      "title": "Chicken Alfredo",
+      "description": "Creamy Alfredo sauce with tender pieces of chicken, served over fettuccine pasta.",
+      "images": [
+        "https://images.unsplash.com/photo-1670508142255-f119391c4213?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Q2hpY2tlbiUyMEFsZnJlZG98ZW58MHx8MHx8fDA%3D"
+      ],
+      "ingredients": [
+        "500g chicken breast",
+        "1 tablespoon olive oil",
+        "2 cups heavy cream",
+        "1 cup grated Parmesan cheese",
+        "2 cloves garlic",
+        "250g fettuccine",
+        "Salt and black pepper to taste",
+        "Chopped parsley for garnish"
+      ]
+    }
+  ]
+  
